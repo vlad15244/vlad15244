@@ -1,8 +1,5 @@
 # Привет, я vlad15244! 👋
 
-### 📊 Моя статистика языков программирования:
+### 📊 Моя статистика языков:
 
-[![Top Langs](https://vercel.app)](https://github.com)
-
----
-*Карточка обновляется автоматически на основе ваших публичных коммитов.*
+[![Top Langs](https://shion.dev)](https://github.com/anuraghazra/github-readme-stats)
