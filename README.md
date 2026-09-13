@@ -1,1 +1,1 @@
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlad15244&show_icons=true&theme=dark)
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlad15244&show_icons=true&theme=dark&t=1)
